@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1>hola amigoes</h1>
+<b>I love soccer and I love watching it and playing it⚽</b>
+<h2>I like sushi because its taste good😍😘💕❤‍🩹🥰🫶</h2>
+<I></I>
+
 
 <!--
 **DaHarutyunyan26htla/DaHarutyunyan26htla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
